@@ -21,7 +21,7 @@ header {
 .pricing-container {
     display: flex;
     justify-content: space-around;
-    align-items: stretch; /* Ensures equal height for all pricing tiers */
+    align-items: stretch; 
     flex-wrap: wrap;
     padding: 20px;
     
